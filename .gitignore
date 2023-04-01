@@ -1,7 +1,8 @@
+.DS_Store
 .vscode
 .ipynb_checkpoints
 .gits
 data
 tfod
-
-
+io
+labelImg
